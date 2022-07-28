@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/pet-grooming-app/static/css/main.58018f32.css",
-    "main.js": "/pet-grooming-app/static/js/main.bf251cbc.js",
-    "static/media/dog-slide-3.png": "/pet-grooming-app/static/media/dog-slide-3.711e92a568f78a9e801b.png",
-    "static/media/dog-slide-1.png": "/pet-grooming-app/static/media/dog-slide-1.6532f2da73eb71559e30.png",
-    "static/media/dog-slide-2.png": "/pet-grooming-app/static/media/dog-slide-2.9912c2e4d2b972e6c4b0.png",
-    "static/media/dog-contact.png": "/pet-grooming-app/static/media/dog-contact.9a0acc891a062d227b3d.png",
-    "static/media/dog-appointment.png": "/pet-grooming-app/static/media/dog-appointment.79f633f797f58be23109.png",
-    "static/media/dog-categ-4.png": "/pet-grooming-app/static/media/dog-categ-4.572aadd2c62f94bdb645.png",
-    "static/media/dog-categ-2.png": "/pet-grooming-app/static/media/dog-categ-2.ba7db388078543ebc191.png",
-    "static/media/dog-categ-3.png": "/pet-grooming-app/static/media/dog-categ-3.f785c631d3d35e92399f.png",
-    "static/media/dog-categ-1.png": "/pet-grooming-app/static/media/dog-categ-1.318829522e0ac63643b9.png",
-    "static/media/phone.svg": "/pet-grooming-app/static/media/phone.0302739606f054f52cc2a38936bf896c.svg",
-    "static/media/logo-white.svg": "/pet-grooming-app/static/media/logo-white.915526a9f528bdcb59442ec19ea69ed7.svg",
-    "static/media/logo.svg": "/pet-grooming-app/static/media/logo.6e730e2e7a76a690537b04f66664d73e.svg",
-    "index.html": "/pet-grooming-app/index.html",
-    "static/media/triangle.svg": "/pet-grooming-app/static/media/triangle.53c2196653b67ce97672.svg",
-    "main.58018f32.css.map": "/pet-grooming-app/static/css/main.58018f32.css.map",
-    "main.bf251cbc.js.map": "/pet-grooming-app/static/js/main.bf251cbc.js.map"
+    "main.css": "/petgrooming/static/css/main.26828bac.css",
+    "main.js": "/petgrooming/static/js/main.ec87df4e.js",
+    "static/media/dog-slide-3.png": "/petgrooming/static/media/dog-slide-3.711e92a568f78a9e801b.png",
+    "static/media/dog-slide-1.png": "/petgrooming/static/media/dog-slide-1.6532f2da73eb71559e30.png",
+    "static/media/dog-slide-2.png": "/petgrooming/static/media/dog-slide-2.9912c2e4d2b972e6c4b0.png",
+    "static/media/dog-contact.png": "/petgrooming/static/media/dog-contact.9a0acc891a062d227b3d.png",
+    "static/media/dog-appointment.png": "/petgrooming/static/media/dog-appointment.79f633f797f58be23109.png",
+    "static/media/dog-categ-4.png": "/petgrooming/static/media/dog-categ-4.572aadd2c62f94bdb645.png",
+    "static/media/dog-categ-2.png": "/petgrooming/static/media/dog-categ-2.ba7db388078543ebc191.png",
+    "static/media/dog-categ-3.png": "/petgrooming/static/media/dog-categ-3.f785c631d3d35e92399f.png",
+    "static/media/dog-categ-1.png": "/petgrooming/static/media/dog-categ-1.318829522e0ac63643b9.png",
+    "static/media/phone.svg": "/petgrooming/static/media/phone.0302739606f054f52cc2a38936bf896c.svg",
+    "static/media/logo-white.svg": "/petgrooming/static/media/logo-white.915526a9f528bdcb59442ec19ea69ed7.svg",
+    "static/media/logo.svg": "/petgrooming/static/media/logo.6e730e2e7a76a690537b04f66664d73e.svg",
+    "index.html": "/petgrooming/index.html",
+    "static/media/triangle.svg": "/petgrooming/static/media/triangle.53c2196653b67ce97672.svg",
+    "main.26828bac.css.map": "/petgrooming/static/css/main.26828bac.css.map",
+    "main.ec87df4e.js.map": "/petgrooming/static/js/main.ec87df4e.js.map"
   },
   "entrypoints": [
-    "static/css/main.58018f32.css",
-    "static/js/main.bf251cbc.js"
+    "static/css/main.26828bac.css",
+    "static/js/main.ec87df4e.js"
   ]
 }
